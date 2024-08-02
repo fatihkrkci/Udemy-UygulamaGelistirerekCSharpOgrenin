@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Kitaplik.accdb
+/Kitaplik.mdb
+/Test.txt
+/UC-75bca617-4830-44f5-8c34-93640c747817 (1).jpg
+/UC-75bca617-4830-44f5-8c34-93640c747817.pdf
